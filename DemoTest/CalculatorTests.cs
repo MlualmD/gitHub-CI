@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  using DemoApp;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
@@ -52,3 +53,6 @@ namespace DemoTest
         }
     
 }
+=======
+Hello Universe! 6/14/2022 7:10:13 PM
+>>>>>>> 35b91023b2bfaa7d87df55c7e5749d2fad9594e5

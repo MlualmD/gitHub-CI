@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -18,3 +19,6 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+=======
+Succeeded
+>>>>>>> 35b91023b2bfaa7d87df55c7e5749d2fad9594e5

@@ -54,7 +54,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="CalculatorTests.cs" />
+=======
+    <Compile Include="UnitTest1.cs" />
+>>>>>>> 35b91023b2bfaa7d87df55c7e5749d2fad9594e5
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

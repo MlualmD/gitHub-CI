@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoApp
 {
+<<<<<<< HEAD
     public class Program: Calculator
     {
         static void Main(string[] args)
@@ -57,5 +58,17 @@ namespace DemoApp
             }
         }  
 
+=======
+    public class Program
+    {
+        static void Main(string[] args)
+        {  
+        }  
+
+        public int Sum(int a, int b)
+        {
+            return a + b;
+        }
+>>>>>>> 35b91023b2bfaa7d87df55c7e5749d2fad9594e5
     }
 }
